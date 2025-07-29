@@ -1,0 +1,39 @@
+{
+	"manifest_version": 3,
+	"name": "Tundra Theme",
+	"version": "1.0",
+	"description": "A dark theme with soft pastel accents",
+	"theme": {
+		"colors": {
+			"bookmark_text": [255, 255, 255],
+			"button_background": [40, 47, 62],
+			"frame": [17, 24, 39],
+			"frame_inactive": [15, 23, 42],
+			"frame_incognito": [30, 41, 59],
+			"frame_incognito_inactive": [15, 23, 42],
+			"ntp_background": [17, 24, 39],
+			"ntp_text": [255, 255, 255],
+			"omnibox_background": [40, 47, 62],
+			"omnibox_text": [255, 255, 255],
+			"tab_background_text": [95, 102, 117],
+			"tab_background_text_inactive": [95, 102, 117],
+			"tab_background_text_incognito": [255, 255, 255],
+			"tab_background_text_incognito_inactive": [95, 102, 117],
+			"tab_text": [255, 255, 255],
+			"toolbar": [31, 41, 55],
+			"toolbar_button_icon": [255, 255, 255],
+			"toolbar_text": [255, 255, 255]
+		},
+		"tints": {
+			"buttons": [0.0, 0.0, 0.2],
+			"frame": [0.0, 0.0, 0.1],
+			"frame_inactive": [0.0, 0.0, 0.05],
+			"frame_incognito": [0.0, 0.0, 0.15],
+			"frame_incognito_inactive": [0.0, 0.0, 0.1]
+		},
+		"properties": {
+			"ntp_background_alignment": "bottom",
+			"ntp_background_repeat": "no-repeat"
+		}
+	}
+}
